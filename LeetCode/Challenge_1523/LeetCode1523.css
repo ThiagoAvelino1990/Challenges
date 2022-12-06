@@ -1,0 +1,17 @@
+/**/
+body{
+    background-color:  #222327;
+    color: #e3e9cb;
+}
+
+p{
+    color: #e3e9cb;
+}
+
+div{
+    width: 15rem;
+    height: 15rem;
+    background-color: #a9a9a9;    
+    display: inline-block;
+}
+
